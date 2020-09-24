@@ -1,0 +1,35 @@
+html {
+	font-size: 10px;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #C8F7F7; 
+}
+
+body {
+	width: 640px;
+	margin: 0 auto 60px;
+	padding: 0 20px 20px 20px;
+	background-color: lightyellow;
+	border: 5px solid grey;
+}
+
+h1 {
+	margin 0;
+	padding: 20px 0;
+	font-size: 60px;
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	color:  black;
+	/*color: #C8F7F7;
+	text-shadow: 0 0 3px black;*/
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
